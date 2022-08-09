@@ -311,8 +311,8 @@ ro.surface_flinger.wcg_composition_dataspace=143261696
 
 # USB
 sys.usb.mtp.batchcancel=1
-vendor.usb.diag.func.name=ffs
-vendor.usb.use_ffs_mtp=1
+vendor.usb.diag.func.name=diag
+vendor.usb.use_ffs_mtp=0
 
 # Wfd
 vendor.media.wfd.automode=1
