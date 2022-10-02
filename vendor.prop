@@ -304,6 +304,7 @@ ro.vendor.sensors.glance_approach=false
 sys.vendor.shutdown.waittime=500
 
 # SOC
+ro.hardware.soc.manufacturer=qcom
 ro.soc.manufacturer=QTI
 ro.soc.model=SM7325
 
